@@ -8,7 +8,7 @@
 An Ethereum and Tokens decentralized cryptocurrency exchange
 
 ### Related repository
-- [DEx-backend](https://github.com/bitbd83/nDEXMarketV2-backend) - Decentralized exchange backend.
+- [nDEX Market V2 Backend](https://github.com/bitbd83/nDEXMarketV2-backend) - Decentralized exchange backend.
 
 
 ## Installation
