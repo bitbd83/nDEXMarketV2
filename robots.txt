@@ -3,4 +3,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /templates/
 Disallow: /help/
-Sitemap: https://dex.karachainfoundation.org/sitemap.xml
+Sitemap: https://ndex.market/sitemap.xml
